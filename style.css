@@ -1,6 +1,9 @@
 #container 
 {
   width: 70%;
+  font-family: Arial, Helvetica, sans-serif;
+  margin:.5rem auto;
+  color: bisque;
   display: flex;
   flex-flow: column nowrap;
   height: auto;
